@@ -1,0 +1,14 @@
+{
+  "welcome":"Welcome",
+  "isRequired": "is required",
+  "facultyInformation":"Faculty Information",
+  "firstName":"First Name",
+  "lastName":"Last Name",
+  "email":"Email",
+  "university":"University",
+  "department":"Department",
+  "labWebsite":"Lab Website",
+  "googleScholarLink":"Google Scholar Link",
+  "update":"Update",
+  "successful":"Successful"
+}
